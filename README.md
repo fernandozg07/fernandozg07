@@ -48,16 +48,27 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 
 ## 📊 Minhas Estatísticas no GitHub (Tema High Contrast)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&count_private=true" 
+  />
+</p>
 
 <br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=8&theme=highcontrast" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&theme=highcontrast" 
+  />
+</p>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=fernandozg07&theme=highcontrast&hide_border=true" />
----
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=fernandozg07&theme=highcontrast&hide_border=true" 
+  />
+</p>
 
 ## 🔥 Projetos em Destaque
 - ✅ Sistema Fitness com IA (Django + React Native)  
