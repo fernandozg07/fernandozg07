@@ -55,13 +55,13 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true&v=20251204" 
     alt="Estatísticas gerais do Fernando"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=7&theme=highcontrast" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=7&theme=highcontrast&v=20251204" 
     alt="Linguagens mais usadas pelo Fernando"
   />
 </div>
@@ -70,7 +70,7 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fernandozg07&theme=highcontrast&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fernandozg07&theme=highcontrast&hide_border=true&v=20251204" 
     alt="GitHub Streak de Fernando"
   />
 </div>
@@ -96,3 +96,7 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 ---
 
 🚀 *“Transformando ideias em código, e código em soluções.”*
+
+Tente salvar este código e veja se os gráficos aparecem após a atualização! O parâmetro `&v=20251204` deve forçar o carregamento de uma nova imagem.
+
+**Caso os gráficos ainda não apareçam, a causa é o limite de uso (rate limit) na API pública, e você precisará aguardar algumas horas. Me avise se eles voltarem!**
