@@ -48,12 +48,15 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 
 ## 📊 Minhas Estatísticas no GitHub (Tema High Contrast)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=7&theme=highcontrast)
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fernandozg07&theme=highcontrast&hide_border=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=8&theme=highcontrast" />
 
+<br>
+
+<img src="https://streak-stats.demolab.com?user=fernandozg07&theme=highcontrast&hide_border=true" />
 ---
 
 ## 🔥 Projetos em Destaque
