@@ -15,7 +15,7 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 - 🎓 Estudante do Ensino Médio Técnico  
 - 💻 Desenvolvedor em formação (Full Stack)  
 - 🤖 Interessado em Inteligência Artificial  
-- 🐍 Especialista em Python e Django  
+- 🐍 Foco em Python e Django  
 - 🚀 Sempre buscando crescer no mercado tech  
 
 ---
@@ -58,8 +58,10 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozg07&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandozg07&theme=highcontrast"/>
+  <img src="https://streak-stats.demolab.com?user=fernandozg07&theme=highcontrast&hide_border=true"/>
 </div>
 
 ---
