@@ -55,7 +55,7 @@ Atualmente, meu foco está em **Back-end com Python/Django** e **Full Stack com 
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=fernandozg07&show_icons=true&theme=highcontrast&include_all_commits=true" 
     alt="Estatísticas gerais do Fernando"
   />
   
